@@ -38,6 +38,7 @@ ecoroute-carbon-predictor/
     ├── __init__.py
     ├── data_preprocessing.py
     └── model.py
+```
 
 ## 🛠️ Technical Stack & Frameworks
 

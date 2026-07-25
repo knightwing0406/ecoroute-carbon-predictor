@@ -115,6 +115,3 @@ Access the interactive FastAPI documentation at `http://localhost:8000/docs`.
 python -m src.data_pipeline.streamer --fps 10
 ```
 
----
-
-## 🏗️ Platform Architecture
